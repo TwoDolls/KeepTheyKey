@@ -1,0 +1,24 @@
+<!--
+Jeu d essais pour la fonction LogicielExiste() utilsee lors de l'enregistrement du fichier .xml. 
+On test que l'algorithme enregistre pas un nouveau logiciel sachant que "Windows 7 Professional N and KN with Service Pack 1" existe déjà.
+-->
+
+<YourKey xmlns="http://www.w3.org/1999/xhtml">
+  <Product_Key Name="Windows 7 Professional N and KN with Service Pack 1">	
+	<Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">XJFCC-YMKD2-4F32M-X6XD3-2X7B9</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">MKP98-9WX89-3DK9V-D64QJ-FFV9B</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">23J9B-6CR38-9BF4Y-H9MHX-MD74G</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">MQJCG-JMDTR-MC23K-776TM-Y96DK</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">C6CXC-CK8BW-DD6KR-2733Q-K8J9X</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">7PBXD-QJGGB-XR7G9-3QH79-T2MK4</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">XDKK2-T7VW8-VMTBB-6KYCK-FQWRJ</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">QYKBP-KV4T8-8P8YK-2D9D4-367K2</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">6MQ9W-XJPWB-BBTDD-3TQPV-C24JF</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">4D2Q2-2JK9F-3HDQ9-J6FH4-3HTXD</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">6G8YC-6T2VM-8VBHC-YXKMJ-9273P</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">V3HFJ-V37H6-JKBR2-CYVGX-8FYVQ</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">2X6RQ-9XRBW-HQB8Q-HV9JF-MMJMX</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">4BQJ8-26DCF-XXGPT-DB67J-DQ3Q7</Key>
+    <Key ID="1054" Type="DreamSpark Retail Key" ClaimedDate="6/6/2014">GXFBT-BWR6X-QPPPH-79QKH-7Q43M</Key>
+ </Product_Key>
+</YourKey>

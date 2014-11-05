@@ -1,0 +1,9 @@
+body{
+background-attachment:fixed;
+}
+/* Style de base pour la page (couleur fond : ocre, couleur texte : noir) */
+.basePage 
+{
+	background-image: url(images/Background.jpeg);
+	background-repeat: repeat;
+}
